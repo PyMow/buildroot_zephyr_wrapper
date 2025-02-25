@@ -1,0 +1,6 @@
+[submodule "zephyr"]
+	path = zephyr
+	url = https://github.com/pic64gx/pic64gx-zephyr.git
+[submodule "pic64gx-soc"]
+	path = pic64gx-soc
+	url = https://github.com/pic64gx/pic64gx-zephyr-examples.git
